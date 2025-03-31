@@ -135,3 +135,5 @@ This program demonstrates how to build a simple and effective recommendation sys
 - Cold start problems may occur for new users or items with no ratings.
 
 To improve the model, hyperparameter tuning or hybrid recommendation approaches (combining collaborative filtering with content-based filtering) can be applied.
+
+**OUTPUT**:![Image](https://github.com/user-attachments/assets/00c4b2e3-a534-4879-85d8-7fee7ba98209)
